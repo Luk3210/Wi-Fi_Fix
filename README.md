@@ -1,6 +1,6 @@
 # WifiFix
-This aims to fix that annoying glitch on windows 11 where your Wi-Fi breaks on computer startup.
-This resets netsh and clears the internet cache to fix broken wifi on windows 11.
+This aims to fix that annoying glitch on Windows 11 where your Wi-Fi breaks on computer startup.
+This clears the internet cache to fix broken wifi on Windows 11.
 
 THIS IS NOT A FIX FOR WIFI INSTABILITY!
 
